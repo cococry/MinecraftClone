@@ -1,0 +1,10 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(499,5): warning MSB8004: Das Intermediate-Verzeichnis endet nicht mit einem nachstehenden Schrägstrich. Der Schrägstrich wird in dieser Buildinstanz hinzugefügt, da er für die ordnungsgemäße Auswertung des Intermediate-Verzeichnisses erforderlich ist.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(500,5): warning MSB8004: Das Output-Verzeichnis endet nicht mit einem nachstehenden Schrägstrich. Der Schrägstrich wird in dieser Buildinstanz hinzugefügt, da er für die ordnungsgemäße Auswertung des Output-Verzeichnisses erforderlich ist.
+  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: "APIENTRY": Makro-Neudefinition
+C:\Dev\SGLLSnake\SGLLSnake\vendor\GLFW\glfw3.h(123): message : Siehe vorherige Definition von "APIENTRY"
+C:\Dev\SGLLSnake\SGLLSnake\src\main.cpp(21,39): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Dev\SGLLSnake\SGLLSnake\src\main.cpp(21,30): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Dev\SGLLSnake\SGLLSnake\src\main.cpp(39,58): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Dev\SGLLSnake\SGLLSnake\src\main.cpp(41,32): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+  SGLLSnake.vcxproj -> C:\Dev\SGLLSnake\bin\Debug-\SGLLSnake.exe
